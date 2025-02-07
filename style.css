@@ -1,0 +1,38 @@
+body {
+  font-family: sans-serif;
+  background-color: #B9ABAB;
+  margin: 10;
+  padding: 40;
+}
+
+.container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  min-height: 10vh;
+  padding: 120px;
+}
+
+.left {
+  background-color: #00ccff;
+  padding: 10px;
+  border-radius
+  }
+
+.right {
+  background-color: white;
+  padding: 70px;
+  border-radius
+}
+ .button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #007bff; 
+    color: white; 
+    text-decoration: none; 
+    border-radius: 4px; 
+    cursor: pointer; 
+}
+
+
+
